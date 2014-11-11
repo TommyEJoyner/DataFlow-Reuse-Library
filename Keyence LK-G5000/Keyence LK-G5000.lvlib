@@ -14,8 +14,8 @@ Keyence LK-G5000 series.</Property>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="vi" Type="Folder">
-			<Item Name="DLL Retcode to VI Errcode.vi" Type="VI" URL="../Private/vi/DLL Retcode to VI Errcode.vi"/>
-			<Item Name="Get DLL Path.vi" Type="VI" URL="../Private/vi/Get DLL Path.vi"/>
+			<Item Name="DLL Retcode to VI Errcode.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Private/vi/DLL Retcode to VI Errcode.vi"/>
+			<Item Name="Get DLL Path.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Private/vi/Get DLL Path.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
@@ -24,7 +24,7 @@ Keyence LK-G5000 series.</Property>
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/Action-Status.mnu"/>
 			<Item Name="LKIF2_SetTiming.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_SetTiming.vi"/>
 			<Item Name="LKIF2_SetTimingSync.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_SetTimingSync.vi"/>
-			<Item Name="LKIF2_SetZero.vi" Type="VI" URL="../Public/Action-Status/LKIF2_SetZero.vi"/>
+			<Item Name="LKIF2_SetZero.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_SetZero.vi"/>
 			<Item Name="LKIF2_SetZeroSync.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_SetZeroSync.vi"/>
 			<Item Name="LKIF2_SetReset.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_SetReset.vi"/>
 			<Item Name="LKIF2_SetResetSync.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_SetResetSync.vi"/>
@@ -32,20 +32,20 @@ Keyence LK-G5000 series.</Property>
 			<Item Name="LKIF2_DataStorageStop.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_DataStorageStop.vi"/>
 			<Item Name="LKIF2_DataStorageInit.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_DataStorageInit.vi"/>
 			<Item Name="LKIF2_DataStorageGetStatus.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_DataStorageGetStatus.vi"/>
-			<Item Name="LKIF2_SetSamplingRate.vi" Type="VI" URL="../Public/Action-Status/LKIF2_SetSamplingRate.vi"/>
-			<Item Name="LKIF2_GetSamplingRate.vi" Type="VI" URL="../Public/Action-Status/LKIF2_GetSamplingRate.vi"/>
+			<Item Name="LKIF2_SetSamplingRate.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_SetSamplingRate.vi"/>
+			<Item Name="LKIF2_GetSamplingRate.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Action-Status/LKIF2_GetSamplingRate.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Configure/Configure.mnu"/>
 			<Item Name="LKIF2_SetProgramNo.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Configure/LKIF2_SetProgramNo.vi"/>
 			<Item Name="LKIF2_GetProgramNo.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Configure/LKIF2_GetProgramNo.vi"/>
-			<Item Name="LKIF2_StartMeasure.vi" Type="VI" URL="../Public/Configure/LKIF2_StartMeasure.vi"/>
-			<Item Name="LKIF2_StopMeasure.vi" Type="VI" URL="../Public/Configure/LKIF2_StopMeasure.vi"/>
+			<Item Name="LKIF2_StartMeasure.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Configure/LKIF2_StartMeasure.vi"/>
+			<Item Name="LKIF2_StopMeasure.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Configure/LKIF2_StopMeasure.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Data/Data.mnu"/>
 			<Item Name="LKIF2_GetCalcDataALL.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Data/LKIF2_GetCalcDataALL.vi"/>
-			<Item Name="LKIF2_GetCalcData.vi" Type="VI" URL="../Public/Data/LKIF2_GetCalcData.vi"/>
+			<Item Name="LKIF2_GetCalcData.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Data/LKIF2_GetCalcData.vi"/>
 			<Item Name="LKIF2_DataStorageGetData.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Data/LKIF2_DataStorageGetData.vi"/>
 			<Item Name="LKIF2_GetLight.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Data/LKIF2_GetLight.vi"/>
 		</Item>
@@ -54,19 +54,19 @@ Keyence LK-G5000 series.</Property>
 			<Item Name="LKIF2_SetPanelLock.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Utility/LKIF2_SetPanelLock.vi"/>
 		</Item>
 		<Item Name="constants" Type="Folder">
-			<Item Name="Comm Interface.ctl" Type="VI" URL="../Public/Constant/Comm Interface.ctl"/>
+			<Item Name="Comm Interface.ctl" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Constant/Comm Interface.ctl"/>
 		</Item>
 		<Item Name="clusters" Type="Folder">
 			<Item Name="LKIF_FLOATVALUE.ctl" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Clusters/LKIF_FLOATVALUE.ctl"/>
 		</Item>
 		<Item Name="enums" Type="Folder">
-			<Item Name="LKIF_FLOATRESULT.ctl" Type="VI" URL="../Public/enum/LKIF_FLOATRESULT.ctl"/>
-			<Item Name="LKIF_OUTNO.ctl" Type="VI" URL="../Public/enum/LKIF_OUTNO.ctl"/>
-			<Item Name="LKIF_SamplingRate.ctl" Type="VI" URL="../Public/enum/LKIF_SamplingRate.ctl"/>
+			<Item Name="LKIF_FLOATRESULT.ctl" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/enum/LKIF_FLOATRESULT.ctl"/>
+			<Item Name="LKIF_OUTNO.ctl" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/enum/LKIF_OUTNO.ctl"/>
+			<Item Name="LKIF_SamplingRate.ctl" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/enum/LKIF_SamplingRate.ctl"/>
 		</Item>
 		<Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/dir.mnu"/>
-		<Item Name="Close.vi" Type="VI" URL="../Public/Close.vi"/>
-		<Item Name="Initialize.vi" Type="VI" URL="../Public/Initialize.vi"/>
+		<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Close.vi"/>
+		<Item Name="Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/Initialize.vi"/>
 		<Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Keyence LK-G5000/Public/VI Tree.vi"/>
 	</Item>
 </Library>
